@@ -19,4 +19,4 @@
             y_pred = self.sigm(output).squeeze()
             return y_pred
 
-![](./learning_research/ex.png)
+![](./learning_research/exp_1.png)
