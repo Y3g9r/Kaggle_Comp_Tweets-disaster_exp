@@ -21,7 +21,7 @@
 
 ![](./learning_research/exp_1.png)  
 
-### 2. bert-base-uncased(gradiens of first 10l=false and 11l=true)+multisampledropout+fc+sigmoid
+### 2. bert-base-uncased(gradiens of first 10l=false and 11l=true)+5_dropouts+fc+sigmoid
 
 
     class NerualNet(nn.Module):
